@@ -3,7 +3,7 @@
 #include <climits>
 #include "Nodo.h"
 
-
+// BRAYAN PIZARRO BUGUEÑO 
 using namespace std;
 
 int obtenerMejorJugada(Nodo* raiz) {
